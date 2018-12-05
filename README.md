@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ntanej3/ntanej3.github.io/tree/master/master)
+
+
 # Final-Project-Data-Viz-2018
 This is a final project for the course Data Visualisation.
 
