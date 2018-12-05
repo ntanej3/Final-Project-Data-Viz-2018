@@ -12,6 +12,7 @@ dependencies:
     - bokeh
     - bqplot
     - ipywidgets
+    - wordcloud
 
 
 
