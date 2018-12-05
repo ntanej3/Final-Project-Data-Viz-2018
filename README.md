@@ -2,8 +2,8 @@
 This is a final project for the course Data Visualisation.
 
 Source:
-https://data.world/datafiniti/mens-shoe-prices
-https://data.world/datafiniti/womens-shoe-prices
+- https://data.world/datafiniti/mens-shoe-prices
+- https://data.world/datafiniti/womens-shoe-prices
 
 Dataset: Shoes's Data with 19000 rows and 47 columns
 
